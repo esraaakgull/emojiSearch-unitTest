@@ -48,7 +48,7 @@ describe("All Tests", () => {
     const emojiSymbol = "😀";
     const emojiTitle = "Grinning";
     const emoji = screen.getByText(emojiTitle);
-    fireEvent.click(emoji.parentElement);
+    fireEvent.click(emoji);
     const copiedText = window.getSelection().toString();
     expect(copiedText === emojiSymbol);
   });

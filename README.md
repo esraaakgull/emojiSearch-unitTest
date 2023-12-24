@@ -1,1 +1,1 @@
-![image](https://github.com/esraaakgull/emojiSearch-unitTest/assets/94448231/a4635e5e-8181-4725-9b54-82e04eaf5e42)![image](https://github.com/esraaakgull/emojiSearch-unitTest/assets/94448231/39ac6f88-d38a-4769-9da9-e4c854361b43)
+![image](https://github.com/esraaakgull/emojiSearch-unitTest/assets/94448231/774842e1-e208-4d1a-b6e5-2fbccefbdbf1)
